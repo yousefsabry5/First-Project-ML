@@ -23,24 +23,7 @@ This project helped me enhance my skills in data analysis and machine learning, 
 
 I would like to extend my gratitude to the NTI institute and the Creativa initiative for providing me with the opportunity to learn and apply these skills through their scholarship program. Their support was instrumental in the completion of this project.
 
-## How to Run the Project
 
-1. Clone the repository:
-    ```bash
-    git clone [repository link]
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd [project directory]
-    ```
-3. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-4. Run the Jupyter Notebook:
-    ```bash
-    jupyter notebook block-house.ipynb
-    ```
 
 ## Project Link
 
